@@ -1,0 +1,46 @@
+[
+  {
+    "number": 1,
+    "computerName": "MaxEffect 2000",
+    "processor": "X-Force",
+    "price": 300,
+    "productionYear": 2017,
+    "accessories": ["Cooling system","Super fan","super power supply"],
+    "details": {"model": "silver","notes": "no comments","energyclass": "A+"}
+  },
+  {
+    "number": 2,
+    "computerName": "Beast II",
+    "processor": "X-Force",
+    "price": 123,
+    "productionYear": 2017,
+    "accessories": ["coffee cup holder","cleaning set","super power supply"],
+    "details": {"model": "GT","notes": "high quality","energyclass": "B"}
+  },
+  {
+    "number": 3,
+    "computerName": "BigFlop Mark II",
+    "processor": "X-Force",
+    "price": 300,
+    "productionYear": 2005,
+    "accessories": ["cleaning set","coffee cup holder","Super fan"],
+    "details": {"model": "GT","notes": "no comments","energyclass": "E"}
+  },
+  {
+    "number": 4,
+    "computerName": "BigFlop Mark II",
+    "processor": "X-Force",
+    "price": 36,
+    "productionYear": 2010,
+    "accessories": ["Cooling system","super power supply","coffee cup holder"],
+    "details": {"model": "chrome","notes": "no comments","energyclass": "A+"}
+  },
+  {
+    "number": 5,
+    "computerName": "MaxEffect 2000",
+    "processor": "Brain 456",
+    "price": 25,
+    "productionYear": 2005,
+    "accessories": ["Super fan","Cooling system","super power supply"]
+  }
+]
